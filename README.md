@@ -1,2 +1,2 @@
 # Crawler
-Small Crawler with Python + Selenium
+Small Crawler for practicing with Python + Selenium
